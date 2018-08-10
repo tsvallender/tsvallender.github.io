@@ -10,7 +10,6 @@ title: T S Vallender
 email: trevor@tsvallender.co.uk
 description: > # this means to ignore newlines until "baseurl:"
   Diary of a student engineer. 
-baseurl: "/" # the subpath of your site, e.g. /blog
 url: "/" # the base hostname & protocol for your site
 
 # Build settings
