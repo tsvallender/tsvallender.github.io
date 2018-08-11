@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Motion, force & momentum"
-date:   2018-08-11 14:32:14 -0000
 category: engineering
 tags: force physics engineering speed acceleration
 ---
