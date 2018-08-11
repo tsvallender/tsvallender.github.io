@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Motion, force & momentum"
-date:   2016-03-24 15:32:14 -0300
+date:   2018-08-11 14:32:14
 categories: motion force physics engineering
 ---
 
@@ -92,16 +92,16 @@ of each force and combine them.
 Newton's second law of motion
 -----------------------------
 
-> $$\text{force} = \text{mass} \mult \text{acceleration}$$
-  or
-  $$F = ma$$
+> $$\text{force} = \text{mass} \times \text{acceleration}$$
+
+> $$F = ma$$
 
 So Newton's second law tells us we can find out the force acting on an
 object by multiplying its mass by its acceleration. For example, if I
 have a mass of 80 kg and am accelerating at 2 m s<sup>-2</sup> there
 is a force of 160 kg m s<sup>-2</sup>. Now because "kg m
 s<sup>-2</sup>" is both common and unwieldy, we have the equivalent
-unit of newtons. That is, $$1 N = 1 kg m^{-2}$$.
+unit of newtons. That is, 1 N = 1 kg m<sup>-2</sup>.
 
 Newton's third law of motion
 ----------------------------
