@@ -3,6 +3,7 @@ layout: post
 title:  "Motion, force & momentum"
 date:   2016-03-24 15:32:14 -0300
 categories: motion force physics engineering
+published: false
 ---
 
 Isaac Newton's three laws of motion set in place some of the most
@@ -20,6 +21,42 @@ units for distance and time are metres and seconds, giving us a unit
 for speed of metres per second (or m s<sup>-1</sup>).
 
 $$\text{speed} = \frac{\text{distance}}{\text{time}}$$
+
+Note that distance is a _scalar_ quantity --- it measures only
+magnitude, not direction. If we add direction, it becomes a _vector_
+quantity, namely *displacement*. If we replace distance with
+displacement in the above equation, we have the equation for velocity
+--- the vector of speed plus distance.
+
+$$\text{velocity} = \frac{\text{displacement}}{\text{time}}$$
+
+Now, it would also be useful to be able to calculate rate of change in
+velocity, i.e. acceleration. Now, you might think of acceleration as
+increase in speed, but in engineering terms that's not precisely
+it. Acceleration measures change in velocity, which has two
+consequences which may not be immediately obvious:
+
+* An object slowing down has a measurable acceleration --- simply a
+  negative one.
+* A change in direction but not speed is also a measurable acceleration.
+  As a consequence of measuring a change in a vector quantity,
+  acceleration is itself a vector quantity.
+
+So how do we measure acceleration? We divide the change in velocity by
+the time that change takes. Assuming we're measuring velocity in m
+s<sup>-1</sup> and thus time in seconds, that gives us a unit of
+metres per second per second, or m s<sup>-2</sup>.
+
+Mass
+----
+
+So now we can measure the way things move. We also need to measure how
+much of a thing there is, that is, its mass. Mass tells us how much
+matter there is in an object, and the SI unit for mass is the
+kilogram. _Kilograms do not measure weight, they measure mass._ Weight
+is a measure of the gravitational force acting on an object. It is
+different on different planets and, to a lesser extent, even in
+different places on Earth.
 
 Newton's first law of motion
 ----------------------------
@@ -51,4 +88,33 @@ one time. These will include gravity and air pressure. In order to
 determine whether and how the object will move, the total force acting
 on the object must be determined. This is called the *resultant* or
 *net force*. This will take into account the magnitude and direction
-of each force and combine them. 
+of each force and combine them.
+
+Newton's second law of motion
+-----------------------------
+
+> $$\text{force} = \text{mass} \mult \text{acceleration}$$
+  or
+  $$F = ma$$
+
+So Newton's second law tells us we can find out the force acting on an
+object by multiplying its mass by its acceleration. For example, if I
+have a mass of 80 kg and am accelerating at 2 m s<sup>-2</sup> there
+is a force of 160 kg m s<sup>-2</sup>. Now because "kg m
+s<sup>-2</sup>" is both common and unwieldy, we have the equivalent
+unit of newtons. That is, $$1 N = 1 kg m^{-2}$$.
+
+Newton's third law of motion
+----------------------------
+
+> If an object A exerts a force on an object B, object B will exert a
+  force on object B which is equal in magnitude but opposite in
+  direction.
+
+Often expressed as "for every action there is an equal and opposite
+reaction", this law defines the *reaction force*. It tells us that,
+for example, if you try to push a brick wall with a force of 1 N, it
+also pushes back with a force of 1 N. Similarly, objects being pulled
+by Earth's gravity also pull on the Earth with an equal force to that
+being exerted on them.
+
