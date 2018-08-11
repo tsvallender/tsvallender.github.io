@@ -11,6 +11,17 @@ important aspects of modern physics, and the wider sciences. Here,
 they present us our window to examine the wider topic of force,
 motion, and movement in general.
 
+Motion
+------
+
+Let's get started by looking at speed, and how we define it. Speed can
+be defined as the amount of distance moved in a given timeframe, and
+so it follows we can calculate it by dividing distance by time. The SI
+units for distance and time are metres and seconds, giving us a unit
+for speed of metres per second (or m s<sup>-1</sup>).
+
+$$\text{speed} = \frac{\text{distance}}{\text{time}}$$
+
 Newton's first law of motion
 ----------------------------
 
