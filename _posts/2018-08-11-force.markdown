@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Motion, force & momentum"
+date:   2016-03-24 15:32:14 -0300
+categories: motion force physics engineering
+published: false
+---
+
+Isaac Newton's three laws of motion set in place some of the most
+important aspects of modern physics, and the wider sciences. Here,
+they present us our window to examine the wider topic of force,
+motion, and movement in general.
+
+Newton's first law of motion
+----------------------------
+
+> An object will remain at rest or in uniform motion in a straight
+  line unless acted on by an external force.
+
+So, if an object is stationary it will remain stationary unless a
+force puts it into motion. This seems like common sense. So does the
+fact that an object in motion will not change direction unless a force
+causes this to happen.
+
+What may seem less obvious is that an object which is in motion _will
+not stop or slow down_ unless a force causes it to do so. We are not
+used to objects moving on endlessly without slowing because our
+intuition has developed on Earth, where a number of forces cause
+objects to slow and stop. Most commonly, friction and air resistance.
+
+### Friction
+
+Friction is the force between two surfaces which are moving (or
+attempting to move) relative to each other. Friction will always act
+to slow down or stop an object.
+
+### So many forces
+
+Most objects on Earth will have many forces operating on them at any
+one time. These will include gravity and air pressure. In order to
+determine whether and how the object will move, the total force acting
+on the object must be determined. This is called the *resultant* or
+*net force*. This will take into account the magnitude and direction
+of each force and combine them. 
