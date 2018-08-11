@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Motion, force & momentum"
-date:   2018-08-11 14:32:14
-categories: motion force physics engineering
+date:   2018-08-11 14:32:14 -0000
+tags: force physics engineering speed acceleration
 ---
 
 Isaac Newton's three laws of motion set in place some of the most
