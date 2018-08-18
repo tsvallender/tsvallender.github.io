@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Motion, force & momentum"
-category: engineering
+category: engineering-notes
 tags: force physics engineering speed acceleration
 ---
 
@@ -13,30 +13,31 @@ motion, and movement in general.
 Motion
 ------
 
-Let's get started by looking at speed, and how we define it. Speed can
-be defined as the amount of distance moved in a given timeframe, and
-so it follows we can calculate it by dividing distance by time. The SI
-units for distance and time are metres and seconds, giving us a unit
-for speed of metres per second (or m s<sup>-1</sup>).
+Let's get started by looking at *speed*. Speed can be defined as the
+amount of distance moved in a given timeframe, and so it follows we
+can calculate it by dividing distance by time. The [SI
+units](https://www.nist.gov/pml/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes)
+for distance and time are metres and seconds, giving us a unit for
+speed of metres per second (or m s<sup>-1</sup>).
 
-$$\text{speed} = \frac{\text{distance}}{\text{time}}$$
+<span class="highlight">$$\text{speed} = \frac{\text{distance}}{\text{time}}$$</span>
 
 Note that distance is a _scalar_ quantity --- it measures only
 magnitude, not direction. If we add direction, it becomes a _vector_
 quantity, namely *displacement*. If we replace distance with
-displacement in the above equation, we have the equation for velocity
---- the vector of speed plus distance.
+displacement in the above equation, we have the equation for
+*velocity* --- the vector of speed plus distance.
 
-$$\text{velocity} = \frac{\text{displacement}}{\text{time}}$$
+<span class="highlight">$$\text{velocity} = \frac{\text{displacement}}{\text{time}}$$</span>
 
 Now, it would also be useful to be able to calculate rate of change in
-velocity, i.e. acceleration. Now, you might think of acceleration as
-increase in speed, but in engineering terms that's not precisely
-it. Acceleration measures change in velocity, which has two
+velocity, i.e. *acceleration*. Now, you might think of acceleration as
+increase in speed, but in scientific terms that's not precisely
+correct. Acceleration measures _change in velocity_, which has two
 consequences which may not be immediately obvious:
 
 * An object slowing down has a measurable acceleration --- simply a
-  negative one.
+  negative one (which can also be referred to as deceleration);
 * A change in direction but not speed is also a measurable acceleration.
   As a consequence of measuring a change in a vector quantity,
   acceleration is itself a vector quantity.
@@ -46,13 +47,18 @@ the time that change takes. Assuming we're measuring velocity in m
 s<sup>-1</sup> and thus time in seconds, that gives us a unit of
 metres per second per second, or m s<sup>-2</sup>.
 
+<span class="highlight">$$\text{acceleration} = \frac{\Delta\text{velocity}}{time}$$</span>
+
+The symbol Δ is the Greek letter delta, which symbolises a change in a
+given quantity.
+
 Mass
 ----
 
 So now we can measure the way things move. We also need to measure how
-much of a thing there is, that is, its mass. Mass tells us how much
+much of a thing there is, that is, its *mass*. Mass tells us how much
 matter there is in an object, and the SI unit for mass is the
-kilogram. _Kilograms do not measure weight, they measure mass._ Weight
+kilogram. *Kilograms do not measure weight, they measure mass.* Weight
 is a measure of the gravitational force acting on an object. It is
 different on different planets and, to a lesser extent, even in
 different places on Earth.
@@ -60,8 +66,8 @@ different places on Earth.
 Newton's first law of motion
 ----------------------------
 
-> An object will remain at rest or in uniform motion in a straight
-  line unless acted on by an external force.
+<span class="highlight">An object will remain at rest or in uniform
+motion in a straight line unless acted on by an external force.</span>
 
 So, if an object is stationary it will remain stationary unless a
 force puts it into motion. This seems like common sense. So does the
@@ -76,11 +82,11 @@ objects to slow and stop. Most commonly, friction and air resistance.
 
 ### Friction
 
-Friction is the force between two surfaces which are moving (or
+*Friction* is the force between two surfaces which are moving (or
 attempting to move) relative to each other. Friction will always act
 to slow down or stop an object.
 
-### So many forces
+### Overall forces
 
 Most objects on Earth will have many forces operating on them at any
 one time. These will include gravity and air pressure. In order to
@@ -92,23 +98,25 @@ of each force and combine them.
 Newton's second law of motion
 -----------------------------
 
-> $$\text{force} = \text{mass} \times \text{acceleration}$$
+<span class="highlight">$$\text{force} = \text{mass} \times \text{acceleration}$$
 
-> $$F = ma$$
+$$F = ma$$</span>
 
 So Newton's second law tells us we can find out the force acting on an
 object by multiplying its mass by its acceleration. For example, if I
 have a mass of 80 kg and am accelerating at 2 m s<sup>-2</sup> there
 is a force of 160 kg m s<sup>-2</sup>. Now because "kg m
 s<sup>-2</sup>" is both common and unwieldy, we have the equivalent
-unit of newtons. That is, 1 N = 1 kg m<sup>-2</sup>.
+unit of *newtons*. That is:
+
+<span class="highlight">1 N = 1 kg m<sup>-2</sup>.</span>
 
 Newton's third law of motion
 ----------------------------
 
-> If an object A exerts a force on an object B, object B will exert a
-  force on object B which is equal in magnitude but opposite in
-  direction.
+<span class="highlight">If an object A exerts a force on an object B,
+object B will exert a force on object B which is equal in magnitude
+but opposite in direction.</span>
 
 Often expressed as "for every action there is an equal and opposite
 reaction", this law defines the *reaction force*. It tells us that,
