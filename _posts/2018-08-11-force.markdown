@@ -99,7 +99,6 @@ Newton's second law of motion
 -----------------------------
 
 <span class="highlight">$$\text{force} = \text{mass} \times \text{acceleration}$$
-
 $$F = ma$$</span>
 
 So Newton's second law tells us we can find out the force acting on an
@@ -125,3 +124,5 @@ also pushes back with a force of 1 N. Similarly, objects being pulled
 by Earth's gravity also pull on the Earth with an equal force to that
 being exerted on them.
 
+These three laws lay the groundwork for all forces and motion in the
+known universe, and are fundamental in physics and engineering.
