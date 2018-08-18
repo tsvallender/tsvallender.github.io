@@ -20,7 +20,7 @@ units](https://www.nist.gov/pml/nist-guide-si-chapter-4-two-classes-si-units-and
 for distance and time are metres and seconds, giving us a unit for
 speed of metres per second (or m s<sup>-1</sup>).
 
-<span class="highlight">$$\text{speed} = \frac{\text{distance}}{\text{time}}$$</span>
+<div class="highlight">$$\text{speed} = \frac{\text{distance}}{\text{time}}$$</div>
 
 Note that distance is a _scalar_ quantity --- it measures only
 magnitude, not direction. If we add direction, it becomes a _vector_
@@ -28,7 +28,7 @@ quantity, namely *displacement*. If we replace distance with
 displacement in the above equation, we have the equation for
 *velocity* --- the vector of speed plus distance.
 
-<span class="highlight">$$\text{velocity} = \frac{\text{displacement}}{\text{time}}$$</span>
+<div class="highlight">$$\text{velocity} = \frac{\text{displacement}}{\text{time}}$$</div>
 
 Now, it would also be useful to be able to calculate rate of change in
 velocity, i.e. *acceleration*. Now, you might think of acceleration as
@@ -47,7 +47,7 @@ the time that change takes. Assuming we're measuring velocity in m
 s<sup>-1</sup> and thus time in seconds, that gives us a unit of
 metres per second per second, or m s<sup>-2</sup>.
 
-<span class="highlight">$$\text{acceleration} = \frac{\Delta\text{velocity}}{time}$$</span>
+<div class="highlight">$$\text{acceleration} = \frac{\Delta\text{velocity}}{time}$$</div>
 
 The symbol Δ is the Greek letter delta, which symbolises a change in a
 given quantity.
@@ -66,8 +66,8 @@ different places on Earth.
 Newton's first law of motion
 ----------------------------
 
-<span class="highlight">An object will remain at rest or in uniform
-motion in a straight line unless acted on by an external force.</span>
+<div class="highlight">An object will remain at rest or in uniform
+motion in a straight line unless acted on by an external force.</div>
 
 So, if an object is stationary it will remain stationary unless a
 force puts it into motion. This seems like common sense. So does the
@@ -98,8 +98,8 @@ of each force and combine them.
 Newton's second law of motion
 -----------------------------
 
-<span class="highlight">$$\text{force} = \text{mass} \times \text{acceleration}$$
-$$F = ma$$</span>
+<div class="highlight">$$\text{force} = \text{mass} \times \text{acceleration}$$
+$$F = ma$$</div>
 
 So Newton's second law tells us we can find out the force acting on an
 object by multiplying its mass by its acceleration. For example, if I
@@ -108,14 +108,14 @@ is a force of 160 kg m s<sup>-2</sup>. Now because "kg m
 s<sup>-2</sup>" is both common and unwieldy, we have the equivalent
 unit of *newtons*. That is:
 
-<span class="highlight">1 N = 1 kg m<sup>-2</sup>.</span>
+<div class="highlight">1 N = 1 kg m<sup>-2</sup>.</div>
 
 Newton's third law of motion
 ----------------------------
 
-<span class="highlight">If an object A exerts a force on an object B,
+<div class="highlight">If an object A exerts a force on an object B,
 object B will exert a force on object B which is equal in magnitude
-but opposite in direction.</span>
+but opposite in direction.</div>
 
 Often expressed as "for every action there is an equal and opposite
 reaction", this law defines the *reaction force*. It tells us that,
