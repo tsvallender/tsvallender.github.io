@@ -47,7 +47,7 @@ the time that change takes. Assuming we're measuring velocity in m
 s<sup>-1</sup> and thus time in seconds, that gives us a unit of
 metres per second per second, or m s<sup>-2</sup>.
 
-<div class="important-note">$$\text{acceleration} = \frac{\Delta\text{velocity}}{time}$$</div>
+<div class="important-note">$$\text{acceleration} = \frac{\Delta\text{velocity}}{\text{time}}$$</div>
 
 The symbol Δ is the Greek letter delta, which symbolises a change in a
 given quantity.
@@ -108,7 +108,7 @@ is a force of 160 kg m s<sup>-2</sup>. Now because "kg m
 s<sup>-2</sup>" is both common and unwieldy, we have the equivalent
 unit of *newtons*. That is:
 
-<div class="important-note">1 N = 1 kg m<sup>-2</sup>.</div>
+<div class="important-note">1 N = 1 kg m<sup>-2</sup></div>
 
 Newton's third law of motion
 ----------------------------
