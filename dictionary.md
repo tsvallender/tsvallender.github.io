@@ -5,6 +5,8 @@
   <dd>A chemical which speeds up a reaction.</dd>
   <dt>Compression</dt>
   <dd>A "squeezing" force.</dd>
+  <dt>Data</dt>
+  <dd>Collection of information on a particular topic.</dd>
   <dt>Extrusion</dt>
   <dd>Squeezing a material through a suitable gap to form it.</dd>
   <dt>Lathe</dt>
@@ -16,6 +18,8 @@
   <dd></dd>
   <dt>One-off production</dt>
   <dd>A single product created to fulfill a specific need.</dd>
+  <dt>Qualitative</dt>
+  <dt>Dealing with the nature of something, often subjective.</dd>
   <dt>Quantitative</dt>
   <dd>Something dealing with numbers or measurements. Objective.</dd>
   <dt>Tension</dt>
