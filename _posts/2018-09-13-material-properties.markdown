@@ -64,7 +64,7 @@ and solidify when cooled, making them useful for moulding.
 		    and strong material.</th>
 		</tr><tr>
 		<th>HDPE (High density polyethene</th>
-		<th><img alt="Polyethene structure" src="/img/polyethene-structure.png" /></th>
+		<th><img alt="HDPE structure" src="/img/hdpe-structure.png" /></th>
 		<th>Often referred to as Polythene, its chains fold to produce
 		    a tough material.</th>
 		</tr><tr>
