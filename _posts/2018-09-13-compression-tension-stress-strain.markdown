@@ -45,8 +45,8 @@ the lowercase Greek letter epsilon (ε), and often given as a
 percentage.
 
 <div class="important-note">$$\text{strain} = \frac{\text{extension}}{\text{original length}}
-     			    = \epsilon = \frac{\Delta l}{l _1}$$
+     			    = \epsilon = \frac{\Delta l}{l _1}$$</div>
 
 # Links
 
-https://pixabay.com/en/pont-du-gard-aqueduct-roman-france-1739534/
+[Pont du Gard image](https://pixabay.com/en/pont-du-gard-aqueduct-roman-france-1739534/)
