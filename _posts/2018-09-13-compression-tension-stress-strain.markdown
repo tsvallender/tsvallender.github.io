@@ -45,7 +45,58 @@ the lowercase Greek letter epsilon (ε), and often given as a
 percentage.
 
 <div class="important-note">$$\text{strain} = \frac{\text{extension}}{\text{original length}}
-     			    = \epsilon = \frac{\Delta l}{l _1}$$</div>
+     			    = \varepsilon = \frac{\Delta l}{l _1}$$</div>
+
+# Failure
+
+## Fatigue
+
+Fatigue is the tendency of a material to break when subjected to
+repeated loading and unloading. Long-term effects are difficult to
+predict. Analytical models can be built with a mixture of experimental
+and experiential knowledge. Fatigue can cause a material to fail at
+stresses much below its original strength, and is caused by the growth
+of cracks over time. It is common in metals. Only recently has it been
+well enough understood to be designed against.
+
+# Stress
+
+Stress is the force per unit area in the material, representd by the
+lowercase Greek letter sigma and given by:
+
+<div class="important-note">$$\text{stress} = \frac{\text{force}}{\text{area}}$$
+
+$$\sigma = \frac{F}{A}$$</div>
+
+Stress in SI unite is N m<sup>-2</sup>. This is the same as the unit
+_pascal_, or Pa, used to measure pressure. As this is generally very
+low it is often scaled to mm or MN.
+
+## Strength
+
+We can use this to give us a more specific definition of strength:
+
+<dl>
+  <dt>Tensile strength</dt>
+  <dd>The maximum stress a material can withstand under tension.</dd>
+  <dt>Compressive strength</dt>
+  <dd>The maximum stress a material can withstand under compression.</dd>
+
+As a material is deformed it will at some point undergo changes to its
+microstructure. When this happens it will be be permanently deformed
+and unable to return to its original shape. This point of no return is
+termed the *yield point* and the stress needed to reach it the *yield
+strength*.
+
+# Young's modulus
+
+*Young's modulus* is the ratio of stress divided by strain, which is a
+constant for a material (that is, it does not depend on size or
+shape). It measures the _stiffness of a material.
+
+<div class="important-note">$$\text{Young's modulus} = \frac{\text{stress}}{\text{strain}}$$
+
+$$E = \frac{\sigma}{\varepsilon}$$</div>
 
 # Links
 
