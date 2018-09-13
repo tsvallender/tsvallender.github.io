@@ -19,7 +19,7 @@ vector quantity) and distance in metres. This means work done will be
 measured in newtons per metre (N m). We can now introduce joules,
 which are an equivalent unit to 1 N m.
 
-<div class="important-note">$$ 1 J = 1 N m = 1 kg m ^_2 s ^{-2}$$</div>
+<div class="important-note">1 J = 1 N m = 1 kg m<sup>2</sup> s<sup>-2</sup></div>
 
 ## Types of energy
 
