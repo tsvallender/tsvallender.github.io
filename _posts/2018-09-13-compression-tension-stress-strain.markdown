@@ -81,6 +81,7 @@ We can use this to give us a more specific definition of strength:
   <dd>The maximum stress a material can withstand under tension.</dd>
   <dt>Compressive strength</dt>
   <dd>The maximum stress a material can withstand under compression.</dd>
+</dl>
 
 As a material is deformed it will at some point undergo changes to its
 microstructure. When this happens it will be be permanently deformed
