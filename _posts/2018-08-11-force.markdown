@@ -13,9 +13,12 @@ motion, and movement in general.
 Motion
 ------
 
-Let's get started by looking at *speed*. Speed can be defined as the
-amount of distance moved in a given timeframe, and so it follows we
-can calculate it by dividing distance by time. The [SI
+The distance an object has moved is given by the difference between
+its initial location and its final location. That is, $$x _1 - x _0$$.
+
+Speed can be defined as the amount of distance moved in a given
+timeframe, and so it follows we can calculate it by dividing distance
+by time. The [SI
 units](https://www.nist.gov/pml/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes)
 for distance and time are metres and seconds, giving us a unit for
 speed of metres per second (or m s<sup>-1</sup>).
@@ -28,7 +31,18 @@ quantity, namely *displacement*. If we replace distance with
 displacement in the above equation, we have the equation for
 *velocity* --- the vector of speed plus distance.
 
+Average velocity is given by:
+
 <div class="important-note">$$\text{velocity} = \frac{\text{displacement}}{\text{time}}$$</div>
+
+<div class="important-note">$$\vec{v} = \frac{\Delta x}{\Delta t}$$</div>
+
+The symbol Δ is the Greek letter delta, which symbolises a change in a
+given quantity.
+
+Instantaneous velocity can be approximated by taking average velocity
+over increasingly small intervals but to obtain an exact figure more
+advanced mathematics must be used.
 
 Now, it would also be useful to be able to calculate rate of change in
 velocity, i.e. *acceleration*. Now, you might think of acceleration as
@@ -49,8 +63,12 @@ metres per second per second, or m s<sup>-2</sup>.
 
 <div class="important-note">$$\text{acceleration} = \frac{\Delta\text{velocity}}{\text{time}}$$</div>
 
-The symbol Δ is the Greek letter delta, which symbolises a change in a
-given quantity.
+<div class="important-note">$$\vec{a} = \frac{\Delta v}{\Delta t}$$</div>
+
+Acceleration is the first derivative of velocity. The second
+derivative of velocity --- the rate of change of acceleration --- is
+*jerk*. The third derivative of velocity --- the rate of change of
+jerk --- is *jounce* (or snap).
 
 Mass
 ----
@@ -109,6 +127,14 @@ s<sup>-2</sup>" is both common and unwieldy, we have the equivalent
 unit of *newtons*. That is:
 
 <div class="important-note">1 N = 1 kg m<sup>-2</sup></div>
+
+A specialised form of the second law can be used to convert mass to
+weight. We must use _acceleration due to gravity_ which on Earth can
+be approximated as 9.81 m s<sup>-2</sup>. It is generally regarded as
+a constant as any differences due to location are likely to be
+negligible.
+
+<div class="important-note">$$W = mg$$</div>
 
 Newton's third law of motion
 ----------------------------
