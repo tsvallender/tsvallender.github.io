@@ -152,3 +152,39 @@ being exerted on them.
 
 These three laws lay the groundwork for all forces and motion in the
 known universe, and are fundamental in physics and engineering.
+
+# Momentum
+
+Momentum is the product of mass and velocity --- it is mass in motion.
+
+<div class="important-note">$$\text{momentum} = \text{mass} \times \text{velocity}$$
+
+$$p = mv$$</div>
+
+Momentum is thus given in kg m s<sup>-1</sup>. Like energy, momentum
+is always conserved.
+
+*Inertia* is an object's fundamental resistance to changes in its
+velocity. The higher the objects mass the higher its inertia. This
+inertia must be overcome in order to change an objects momentum.
+
+An *elastic collision* is one in which kinetic energy is conserved,
+i.e. none is converted into other forms of energy. In real life there
+is no such thing as a perfectly elastic collision but it can be useful
+for modelling.
+
+As acceleration is given by $$\frac{v _{2} = v _{1}}{t} and we have
+seen $$F = ma$$, we can see $$F = \frac{m(v _{2} - v_{1})}{t} = \frac{mv _{2} - mv _{1}}{t}$$.
+The expression $$mv _{2} - mv {1}$$ gives us change of momentum, so
+we can see that force is equivalent to rate of change of momentum.
+
+## Impulse
+
+If we rewrite the above expression as $$\Delta (mv) we have
+$$F = \frac{\Delta (mv)}{t}$$. The quantity Δ(mv) is generally referred
+to as *impulse*.
+
+<div class="important-note">$$\text{impulse} = \text{force} \times \text{time}
+= Ft = \Delta (mv) = \text{change in momentum}$$</div>
+
+Generally impulse is written as N s.
