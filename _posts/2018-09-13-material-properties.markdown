@@ -49,7 +49,8 @@ united by their underlying chemical structure which is formed of long
 chains of chemically joined sub-units. How these are arranged is key,
 and some examples are given below.
 
-_Thermoplastics_ are special polymers whichy become soft when heated and solidify when cooled, making them useful for moulding.
+_Thermoplastics_ are special polymers whichy become soft when heated
+and solidify when cooled, making them useful for moulding.
 
 <table>
 	<thead><tr><th>Polymer</th>
@@ -58,22 +59,22 @@ _Thermoplastics_ are special polymers whichy become soft when heated and solidif
 	</tr></thead>
 	<tbody><tr>
 		<th>Kevlar</th>
-		<th>![Kevlar structure](img/kevlar-structure.png)</th>
+		<th><img alt="Kevlar structure" src="img/kevlar-structure.png" /></th>
 		<th>Kevlar's rigid chains align to produce a very stiff
 		    and strong material.</th>
 		</tr><tr>
 		<th>HDPE (High density polyethene</th>
-		<th>![Polyethene structure](img/polyethene-structure.png)</th>
+		<th><img alt="Polyethene structure" src="img/polyethene-structure.png" /></th>
 		<th>Often referred to as Polythene, its chains fold to produce
 		    a tough material.</th>
 		</tr><tr>
 		<th>Rubber</th>
-		<th>![Rubber structure](img/rubber-structure.png)</th>
+		<th><img alt="Rubber structure" src="img/rubber-structure.png" /></th>
 		<th>Rubber's elastic properties are caused by its loose and
 		    seemingly random network of chains.</th>
 		</tr><tr>
 		<th>Cellulose</th>
-		<th>![Cellulose structure](img/cellulose-structure.png)</th>
+		<th><img alt="Cellulose structure" src="img/cellulose-structure.png" /></th>
 		<th>Formed by networks of sugar chains, cellulose is found in
 		    cotton, wood and other plant materials.</th>
 	</tr></tbody>
