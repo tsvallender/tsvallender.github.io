@@ -5,7 +5,7 @@ category: engineering-notes
 tags: force physics engineering
 ---
 
-# Compression and tension
+## Compression and tension
 
 Forces can be classed one of two ways --- *compressive* or
 *tensile*. To put it another way, a force can either put an object
@@ -25,7 +25,11 @@ load. As it bends downward, the top half of the sheet is under
 compressive force, being pushed together, while the bottom half is
 under tension, being pulled apart (see Figure 1).
 
-![Figure 1](/img/bridge-compression-tension.png)
+<figure>
+  <img src="/img/bridge-compression-tension.png"
+       alt="Tension and compression on a bridge" />
+  <figcaption>Figure 1</figcaption>
+</figure>
 
 Ceramic materials such as stone are very strong under compressive
 forces, but less strong under tensile forces. We can arrange our
@@ -35,9 +39,13 @@ design which maximises the amount of material under compression and
 thus also minimises the amount under tension. This can be seen at the
 Pont du Gard (Figure 2).
 
-![Figure 2](/img/pont-du-gard.jpg)
+<figure>
+  <img src="/img/pont-du-gard.jpg"
+       alt="Pont du Gard" />
+  <figcaption>Figure 2</figcaption>
+</figure>
 
-# Strain
+## Strain
 
 Strain is defined as the ratio of the change in length --- i.e. the
 extension --- to the original length. It is generally represented by
@@ -47,9 +55,9 @@ percentage.
 <div class="important-note">$$\text{strain} = \frac{\text{extension}}{\text{original length}}
      			    = \varepsilon = \frac{\Delta l}{l _1}$$</div>
 
-# Failure
+## Failure
 
-## Fatigue
+### Fatigue
 
 Fatigue is the tendency of a material to break when subjected to
 repeated loading and unloading. Long-term effects are difficult to
@@ -59,7 +67,7 @@ stresses much below its original strength, and is caused by the growth
 of cracks over time. It is common in metals. Only recently has it been
 well enough understood to be designed against.
 
-# Stress
+## Stress
 
 Stress is the force per unit area in the material, representd by the
 lowercase Greek letter sigma and given by:
@@ -72,7 +80,7 @@ Stress in SI unite is N m<sup>-2</sup>. This is the same as the unit
 _pascal_, or Pa, used to measure pressure. As this is generally very
 low it is often scaled to mm or MN.
 
-## Strength
+### Strength
 
 We can use this to give us a more specific definition of strength:
 
@@ -89,7 +97,7 @@ and unable to return to its original shape. This point of no return is
 termed the *yield point* and the stress needed to reach it the *yield
 strength*.
 
-# Young's modulus
+## Young's modulus
 
 *Young's modulus* is the ratio of stress divided by strain, which is a
 constant for a material (that is, it does not depend on size or
@@ -99,6 +107,6 @@ shape). It measures the _stiffness of a material.
 
 $$E = \frac{\sigma}{\varepsilon}$$</div>
 
-# Links
+## Links
 
 [Pont du Gard image](https://pixabay.com/en/pont-du-gard-aqueduct-roman-france-1739534/)

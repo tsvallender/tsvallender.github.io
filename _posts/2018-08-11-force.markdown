@@ -33,9 +33,9 @@ displacement in the above equation, we have the equation for
 
 Average velocity is given by:
 
-<div class="important-note">$$\text{velocity} = \frac{\text{displacement}}{\text{time}}$$</div>
+<div class="important-note">$$\text{velocity} = \frac{\text{displacement}}{\text{time}}$$
 
-<div class="important-note">$$\vec{v} = \frac{\Delta x}{\Delta t}$$</div>
+$$\vec{v} = \frac{\Delta x}{\Delta t}$$</div>
 
 The symbol Δ is the Greek letter delta, which symbolises a change in a
 given quantity.
@@ -61,9 +61,9 @@ the time that change takes. Assuming we're measuring velocity in m
 s<sup>-1</sup> and thus time in seconds, that gives us a unit of
 metres per second per second, or m s<sup>-2</sup>.
 
-<div class="important-note">$$\text{acceleration} = \frac{\Delta\text{velocity}}{\text{time}}$$</div>
+<div class="important-note">$$\text{acceleration} = \frac{\Delta\text{velocity}}{\text{time}}$$
 
-<div class="important-note">$$\vec{a} = \frac{\Delta v}{\Delta t}$$</div>
+$$\vec{a} = \frac{\Delta v}{\Delta t}$$</div>
 
 Acceleration is the first derivative of velocity. The second
 derivative of velocity --- the rate of change of acceleration --- is
@@ -173,14 +173,14 @@ i.e. none is converted into other forms of energy. In real life there
 is no such thing as a perfectly elastic collision but it can be useful
 for modelling.
 
-As acceleration is given by $$\frac{v _{2} = v _{1}}{t} and we have
+As acceleration is given by $$\frac{v _{2} = v _{1}}{t}$$ and we have
 seen $$F = ma$$, we can see $$F = \frac{m(v _{2} - v_{1})}{t} = \frac{mv _{2} - mv _{1}}{t}$$.
 The expression $$mv _{2} - mv {1}$$ gives us change of momentum, so
 we can see that force is equivalent to rate of change of momentum.
 
 ## Impulse
 
-If we rewrite the above expression as $$\Delta (mv) we have
+If we rewrite the above expression as $$\Delta (mv)$$ we have
 $$F = \frac{\Delta (mv)}{t}$$. The quantity Δ(mv) is generally referred
 to as *impulse*.
 

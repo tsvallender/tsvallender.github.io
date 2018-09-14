@@ -52,11 +52,20 @@ img {
 /**
  * Figures
  */
+figure {
+    border: 1px solid #000;
+    width: 100%;
+    float: 0 auto;
+    text-align: center;
+}
 figure > img {
-    display: block;
+    margin: 1em;
 }
 
 figcaption {
+    background-color: #222;
+    color: #fff;
+    text-align: center;
     font-size: $small-font-size;
 }
 
@@ -65,8 +74,12 @@ figcaption {
 /**
  * Lists
  */
-ul, ol {
+ul, ol, dd {
     margin-left: $spacing-unit;
+}
+
+dt {
+    font-weight: bold;
 }
 
 li {
@@ -76,16 +89,26 @@ li {
     }
 }
 
+/**
+* Tables
+*/
+table { border-spacing: 0; font-weight: normal; }
+th {
+    border-bottom:1px solid #000;
+    margin: 0;
+    padding: .5em;
+    font-weight: normal;
+}
+thead > tr > th { font-weight: bold; background-color: #ddd; }
 
+th.rtitle { font-weight: bold; background-color: #eee;}
 
 /**
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: $base-font-weight;
+    font-weight: bold;
 }
-
-
 
 /**
  * Links

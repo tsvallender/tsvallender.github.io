@@ -26,27 +26,27 @@ communication it is important these are used correctly.
 		   <th>Opposite</th>
 	</tr></thead>
 	<tbody><tr>
-		<th>Strong</th>
+		<th class="rtitle">Strong</th>
 		<th>Capable of withstanding large forces before failing.</th>
 		<th>Weak</th>
 	</tr><tr>
-		<th>Tough</th>
+		<th class="rtitle">Tough</th>
 		<th>Not easily broken, resistant to cracking.</th>
 		<th>Brittle</th>
 	</tr><tr>
-		<th>Hard</th>
+		<th class="rtitle">Hard</th>
 		<th>Does not deform easily under compression. Resists scratching and denting.</th>
 		<th>Soft</th>
 	</tr><tr>
-		<th>Stiff, rigid</th>
+		<th class="rtitle">Stiff, rigid</th>
 		<th>Not easily bent or changed in shape.</th>
 		<th>Floppy, flexible</th>
 	</tr><tr>
-		<th>Elastic</th>
+		<th class="rtitle">Elastic</th>
 		<th>Will return to its original shape if deformed.</th>
 		<th>Plastic</th>
 	</tr><tr>
-		<th>Dense</th>
+		<th class="rtitle">Dense</th>
 		<th>Large mass to volume ratio.</th>
 		<th>Light, low density</th>
 	</tr></tbody>
@@ -90,23 +90,23 @@ Metallurgy?
 		   <th>Alloy?</th>
 	</tr></thead>
 	<tbody><tr>
-		<th>Copper</th>
+		<th class="rtitle">Copper</th>
 		<th>Soft. Good conductor. Attractive.</th>
 		<th>No</th>
 	</tr><tr>
-		<th>Bronze</th>
+		<th class="rtitle">Bronze</th>
 		<th>Harder, keeps an edge well.</th>
 		<th>Copper & tin</th>
 	</tr><tr>
-		<th>Iron</th>
+		<th class="rtitle">Iron</th>
 		<th>Common ore but harder to extract. Strong. Can be brittle.</th>
 		<th>Contains carbon but this is seen as more of an impurity</th>
 	</tr><tr>
-		<th>Steel</th>
+		<th class="rtitle">Steel</th>
 		<th>Very strong.</th>
 		<th>Iron with around 2% carbon. Other metals often added for specific properties</th>
 	</tr><tr>
-		<th>Aluminium</th>
+		<th class="rtitle">Aluminium</th>
 		<th>Light, strong, corrosion-resistant, easily formed.</th>
 		<th>No</th>
 	</tr></tbody>
@@ -160,22 +160,22 @@ and solidify when cooled, making them useful for moulding.
 		   <th>Description</th>
 	</tr></thead>
 	<tbody><tr>
-		<th>Kevlar</th>
+		<th class="rtitle">Kevlar</th>
 		<th><img alt="Kevlar structure" src="/img/kevlar-structure.png" /></th>
 		<th>Kevlar's rigid chains align to produce a very stiff
 		    and strong material.</th>
 		</tr><tr>
-		<th>HDPE (High density polyethene</th>
+		<th class="rtitle">HDPE (High density polyethene</th>
 		<th><img alt="HDPE structure" src="/img/hdpe-structure.png" /></th>
 		<th>Often referred to as Polythene, its chains fold to produce
 		    a tough material.</th>
 		</tr><tr>
-		<th>Rubber</th>
+		<th class="rtitle">Rubber</th>
 		<th><img alt="Rubber structure" src="/img/rubber-structure.png" /></th>
 		<th>Rubber's elastic properties are caused by its loose and
 		    seemingly random network of chains.</th>
 		</tr><tr>
-		<th>Cellulose</th>
+		<th class="rtitle">Cellulose</th>
 		<th><img alt="Cellulose structure" src="/img/cellulose-structure.png" /></th>
 		<th>Formed by networks of sugar chains, cellulose is found in
 		    cotton, wood and other plant materials.</th>
