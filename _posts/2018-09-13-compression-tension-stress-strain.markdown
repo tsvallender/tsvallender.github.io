@@ -52,7 +52,7 @@ extension --- to the original length. It is generally represented by
 the lowercase Greek letter epsilon (ε), and often given as a
 percentage.
 
-<div class="important-note">$$\text{strain} = \frac{\text{extension}}{\text{original length}}
+<div class="important-note">$$\varepsilon = \text{strain} = \frac{\text{extension}}{\text{original length}}
      			    = \varepsilon = \frac{\Delta l}{l _1}$$</div>
 
 ## Failure
@@ -101,7 +101,7 @@ strength*.
 
 *Young's modulus* is the ratio of stress divided by strain, which is a
 constant for a material (that is, it does not depend on size or
-shape). It measures the _stiffness of a material.
+shape). It measures the _stiffness_ of a material.
 
 <div class="important-note">$$\text{Young's modulus} = \frac{\text{stress}}{\text{strain}}$$
 

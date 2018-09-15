@@ -173,7 +173,7 @@ i.e. none is converted into other forms of energy. In real life there
 is no such thing as a perfectly elastic collision but it can be useful
 for modelling.
 
-As acceleration is given by $$\frac{v _{2} = v _{1}}{t}$$ and we have
+As acceleration is given by $$\frac{v _{2} - v _{1}}{t}$$ and we have
 seen $$F = ma$$, we can see $$F = \frac{m(v _{2} - v_{1})}{t} = \frac{mv _{2} - mv _{1}}{t}$$.
 The expression $$mv _{2} - mv {1}$$ gives us change of momentum, so
 we can see that force is equivalent to rate of change of momentum.
