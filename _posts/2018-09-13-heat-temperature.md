@@ -5,7 +5,7 @@ category: engineering-notes
 tags: force physics engineering
 ---
 
-# Heat & temperature
+## Heat & temperature
 
 Temperature is the measure of how hot or cold an object is. Heat
 energy will always flow from a higher-temperature to a
@@ -19,7 +19,7 @@ water rather than absolute zero.
 
 <div class="important-note">0 °C = 273.15 K</div>
 
-# Specific heat capacity
+## Specific heat capacity
 
 In order to know how much thermal energy is required to raise an
 object to a given temperature we must know its *specific heat
@@ -34,7 +34,7 @@ mass").
 Here Δ_Q_ is heat energy required, _m_ is mass, _c_ is specific heat
 capacity and ΔT is temperature difference.
 
-# Heat transfer
+## Heat transfer
 
 Heat can be transferred in three ways:
 

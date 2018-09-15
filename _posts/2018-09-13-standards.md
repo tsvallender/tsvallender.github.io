@@ -5,7 +5,7 @@ category: engineering-notes
 tags: force physics engineering
 ---
 
-# Standards
+## Standards
 
 A standard is the result of accumulated experience; success and
 failure. They dictate critical features of a design, construction
@@ -38,6 +38,6 @@ ones due to the pressures of globalisation.
 
 The UK-SPEC is the UK Standard for Professional Engineering Competence.
 
-# Patents
+## Patents
 
 A patent ensures no-one else can make, use, sell or import an invention without the patent-holder's permission. They last for up to twenty years.

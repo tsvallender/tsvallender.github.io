@@ -14,7 +14,7 @@ four points:
 * *Process:* how the material will need to be manipulated;
 * *Price:* how much it will cost.
 
-# Defining properties
+## Defining properties
 
 Engineering uses many words which are used generally in English to
 have specific technical definitions. To avoid confusion and facilitate
@@ -62,7 +62,7 @@ generally represented as the lowercase Greek letter rho.
 Below I will look at some of the most common types of
 materials and ways of classifying them.
 
-# Metals and alloys
+## Metals and alloys
 
 Metals have a huge range of properties, from hard steel and iron to
 soft lead and liquid mercury. They generally don't break easily and
@@ -128,7 +128,7 @@ in the twentieth century. High currents are required, making the
 process expensive. Because of this, production tends to occur where
 cheap power is readily available.
 
-# Ceramics
+## Ceramics
 
 Ceramics are strong and hard, but brittle. They include clay, stone,
 brick, cement, concrete and minerals. They are generally able to
@@ -141,7 +141,7 @@ than other ceramics to process.
 _Engineering ceramics_ are advanced ceramics developed for specialist
 applications where specific properties are required.
 
-# Plastics and polymers
+## Plastics and polymers
 
 Polymers can be both natural and synthetic. Plastic normally refers to
 the subset of these derived from oil, which obviously leads to
@@ -182,7 +182,7 @@ and solidify when cooled, making them useful for moulding.
 	</tr></tbody>
 </table>
 
-# Carbon-based materials
+## Carbon-based materials
 
 Carbon has three very different natural forms, coal which is weak and
 brittle, graphite which is soft and useful as a lubricant or in

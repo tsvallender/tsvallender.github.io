@@ -10,8 +10,7 @@ important aspects of modern physics, and the wider sciences. Here,
 they present us our window to examine the wider topic of force,
 motion, and movement in general.
 
-Motion
-------
+## Motion
 
 The distance an object has moved is given by the difference between
 its initial location and its final location. That is, $$x _1 - x _0$$.
@@ -70,8 +69,7 @@ derivative of velocity --- the rate of change of acceleration --- is
 *jerk*. The third derivative of velocity --- the rate of change of
 jerk --- is *jounce* (or snap).
 
-Mass
-----
+## Mass
 
 So now we can measure the way things move. We also need to measure how
 much of a thing there is, that is, its *mass*. Mass tells us how much
@@ -81,8 +79,7 @@ is a measure of the gravitational force acting on an object. It is
 different on different planets and, to a lesser extent, even in
 different places on Earth.
 
-Newton's first law of motion
-----------------------------
+## Newton's first law of motion
 
 <div class="important-note">An object will remain at rest or in uniform
 motion in a straight line unless acted on by an external force.</div>
@@ -113,8 +110,7 @@ on the object must be determined. This is called the *resultant* or
 *net force*. This will take into account the magnitude and direction
 of each force and combine them.
 
-Newton's second law of motion
------------------------------
+## Newton's second law of motion
 
 <div class="important-note">$$\text{force} = \text{mass} \times \text{acceleration}$$
 $$F = ma$$</div>
@@ -136,8 +132,7 @@ negligible.
 
 <div class="important-note">$$W = mg$$</div>
 
-Newton's third law of motion
-----------------------------
+## Newton's third law of motion
 
 <div class="important-note">If an object A exerts a force on an object B,
 object B will exert a force on object B which is equal in magnitude
@@ -153,7 +148,7 @@ being exerted on them.
 These three laws lay the groundwork for all forces and motion in the
 known universe, and are fundamental in physics and engineering.
 
-# Momentum
+## Momentum
 
 Momentum is the product of mass and velocity --- it is mass in motion.
 
@@ -178,7 +173,7 @@ seen $$F = ma$$, we can see $$F = \frac{m(v _{2} - v_{1})}{t} = \frac{mv _{2} - 
 The expression $$mv _{2} - mv {1}$$ gives us change of momentum, so
 we can see that force is equivalent to rate of change of momentum.
 
-## Impulse
+### Impulse
 
 If we rewrite the above expression as $$\Delta (mv)$$ we have
 $$F = \frac{\Delta (mv)}{t}$$. The quantity Δ(mv) is generally referred
