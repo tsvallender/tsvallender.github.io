@@ -40,4 +40,19 @@ The UK-SPEC is the UK Standard for Professional Engineering Competence.
 
 ## Patents
 
-A patent ensures no-one else can make, use, sell or import an invention without the patent-holder's permission. They last for up to twenty years.
+A patent ensures no-one else can make, use, sell or import an
+invention without the patent-holder's permission. They last for up to
+twenty years. If another organisation wishes to manufacture the
+product they generally pay royalties to the patent holder.
+
+If the patent is infringed, the holder can institute legal
+proceedings. It is their responsibility to ensure the patent is not
+infringed and enforcing it can be very costly. A patent offers little
+protection within a country in which it is not recognised.
+
+Legally, an invention must be:
+o Novel;
+o Original (or not obvious to a skilled practitioner);
+o Capable of being manufactured, programmed or specified (depending on
+  the type of invention).
+
