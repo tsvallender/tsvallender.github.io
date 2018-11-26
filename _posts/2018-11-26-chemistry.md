@@ -23,7 +23,7 @@ nucleus, while the electrons surround them.
 A proton and neutron have roughly the same mass; one atomic mass unit
 (a.m.u.).
 
-<div class="important-note">$$1 \text{a.m.u.} = 1.66 \times 10^{-27} \text{kg}
+<div class="important-note">$$1 \text{a.m.u.} = 1.66 \times 10^{-27} \text{kg}$$
 
 (to 3 s.f.)</div>
 
@@ -34,7 +34,7 @@ Neutrons are electrically neutral, protons positive and electrons
 negative, each with an equal but opposite charge. This charge is
 termed the elementary charge and given the symbol *e*.
 
-<div class="important-note">$$e = 1.602 \times 10^{-19} C$$
+<div class="important-note">$$e = 1.602 \times 10^{-19} \text{C}$$
 
 (to 4 s.f.)</div>
 
@@ -65,9 +65,9 @@ bonds. A molecule may contain only a single element or it may be a
 _compound_ of different types of atom.
 
 There are different types of chemical bonds:
-o Ionic bonding --- one atom "gives" one or more electrons to another;
-o Covalent bonding --- one or more electrons are "shared" by two atoms;
-o Metallic bonding --- atoms become separated from their original nuclei
+* Ionic bonding --- one atom "gives" one or more electrons to another;
+* Covalent bonding --- one or more electrons are "shared" by two atoms;
+* Metallic bonding --- atoms become separated from their original nuclei
   and move through the structure as "free electrons".
 
 ## Reading the periodic table
