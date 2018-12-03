@@ -31,7 +31,7 @@ communication it is important these are used correctly.
 		<th>Weak</th>
 	</tr><tr>
 		<th class="rtitle">Tough</th>
-		<th>Not easily broken, resistant to cracking.</th>
+		<th>Not easily broken, resistant to cracking. Able to absorb large amounts of energy before fracturing.</th>
 		<th>Brittle</th>
 	</tr><tr>
 		<th class="rtitle">Hard</th>
@@ -39,7 +39,7 @@ communication it is important these are used correctly.
 		<th>Soft</th>
 	</tr><tr>
 		<th class="rtitle">Stiff, rigid</th>
-		<th>Not easily bent or changed in shape.</th>
+		<th>Not easily bent or changed in shape. High Young's modulus.</th>
 		<th>Floppy, flexible</th>
 	</tr><tr>
 		<th class="rtitle">Elastic</th>
@@ -49,6 +49,10 @@ communication it is important these are used correctly.
 		<th class="rtitle">Dense</th>
 		<th>Large mass to volume ratio.</th>
 		<th>Light, low density</th>
+	</tr><<tr>
+		<th class="rtitle">Ductile</th>
+		<th>Ability to deform under load. High strain at failure.</th>
+		<th></th>
 	</tr></tbody>
 </table>
 

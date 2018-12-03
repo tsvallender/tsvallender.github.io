@@ -104,6 +104,16 @@ percentage.
 
 ## Failure
 
+There are various ways a material can fail. These include:
+
+* _Crushing:_ occurs when a material disintegrates under a pressure higher
+  than its maximum compressive load.
+* _Buckling:_ can occur with a large height:width ratio. The material begins
+  to bow outwards, a motion which rapidly worsens. This will occur at loads
+  less than the material's compressive strength.
+* _Shearing:_ also able to occur under a material's compressive strength,
+  this is when elements begin to slide over one another within the material.
+
 ### Fatigue
 
 Fatigue is the tendency of a material to break when subjected to
@@ -114,6 +124,26 @@ stresses much below its original strength, and is caused by the growth
 of cracks over time. It is common in metals. Only recently has it been
 well enough understood to be designed against.
 
+### Testing
+
+Testing is an important part of determining a materials properties,
+strengths and weaknesses. Both compressive and tensile testing are
+necessary.
+
+During tensile testing various useful properties of a material can be
+determined. These include:
+
+* _Limit of proportionality:_ this is the period over which the stress-strain
+  relationship is a straight line.
+* _Elastic limit:_the point at which any further stress will result in
+  non-elastic deformation. The stress here is the _yield stress_ ($$\sigma _y$$).
+* _Ultimate tensile stress (UTS) ($$\sigma _f$$):_ the point of maximum stress.
+* _Fracture stress:_ the point at which the material fractures.
+
+Note that yield stress is often difficult to give an exact figure for,
+and so is often defined as the stress resulting in a permanent strain
+of 0.2% ($$\sigma _{0.2}$$).
+
 ## Stress
 
 Stress is the force per unit area in the material, representd by the
@@ -123,9 +153,13 @@ lowercase Greek letter sigma and given by:
 
 $$\sigma = \frac{F}{A}$$</div>
 
-Stress in SI unite is N m<sup>-2</sup>. This is the same as the unit
+Stress in SI units is N m<sup>-2</sup>. This is the same as the unit
 _pascal_, or Pa, used to measure pressure. As this is generally very
 low it is often scaled to mm or MN.
+
+During testing it is common to use _engineering stress_. This always
+uses the cross-sectional area of the original sample, discounting any
+changes that take place during the testing.
 
 ### Strength
 
@@ -153,6 +187,10 @@ shape). It measures the _stiffness_ of a material.
 <div class="important-note">$$\text{Young's modulus} = \frac{\text{stress}}{\text{strain}}$$
 
 $$E = \frac{\sigma}{\varepsilon}$$</div>
+
+Often a more accurate result for Young's modulus is given by dividing
+the _change_ in stress by the _change_ in strain over the linear
+section of a stress-strain graph.
 
 ## Links
 
