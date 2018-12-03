@@ -51,8 +51,21 @@ infringed and enforcing it can be very costly. A patent offers little
 protection within a country in which it is not recognised.
 
 Legally, an invention must be:
-o Novel;
-o Original (or not obvious to a skilled practitioner);
-o Capable of being manufactured, programmed or specified (depending on
+* Novel;
+* Original (or not obvious to a skilled practitioner);
+* Capable of being manufactured, programmed or specified (depending on
   the type of invention).
 
+## Alternatives to patents
+
+* _Registered design:_ protects a products outward design and appearance,
+  but not its function.
+* _Copyright:_ unregistered and automatic, copyright can protect written
+  works, music, software, architectural and design drawings and even
+  specific design details. Lasts seventy years after the death of the
+  copyright holder.
+* _Design right:_ replaced copyright in 1988 for industrial designs.
+  Automatic cover as long as originality can be proven. Cannot cover methods
+  of construction. Lasts ten years from the selling of a new product. Parts
+  which "must mate" with another are excluded to promote interoperability.
+* _Trademarks:_ registered names or symbols.

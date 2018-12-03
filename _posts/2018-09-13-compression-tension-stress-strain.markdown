@@ -32,8 +32,9 @@ under tension, being pulled apart (see Figure 1).
 </figure>
 
 Ceramic materials such as stone are very strong under compressive
-forces, but less strong under tensile forces. We can arrange our
-materials in such a way that accounts for their strengths and
+forces, but less strong under tensile forces (the tensile strength of
+stone is typically 20% of its compressive strength). We can arrange
+our materials in such a way that accounts for their strengths and
 weaknesses. One technique in traditional bridge building is to use a
 design which maximises the amount of material under compression and
 thus also minimises the amount under tension. This can be seen at the
@@ -44,6 +45,52 @@ Pont du Gard (Figure 2).
        alt="Pont du Gard" />
   <figcaption>Figure 2</figcaption>
 </figure>
+
+## Lintels
+
+A lintel is a horizontal beam supported by two uprights, as in the
+above diagram, and they represent a good illustration of these
+forces. One way of dealing with the weaknesses in tension is to use a
+pre-stressed lintel. This involves embedding steel bars in the
+concrete and holding them under tension while the concrete sets. This
+will then constantly pull the concrete into compression and prevent
+cracks moving up through the lintel.
+
+Materials will vary in their ability to carry load. This will depend
+on various factors including:
+
+* Resistance to moving under a bending load (related to stiffness);
+* Long-term resistance to load (related to creep);
+* Resistance to sudden failure from shock loading (related to toughness);
+
+In a lintel there is logically an area in the material where
+compressive forces change into tensile forces. This is known as the
+neutral axis or neutral plane and is an area where stress is zero as
+the material is under neither compression nor tension. An implication
+of this is that material can be removed from the centre of the
+lintel. In actuality, significant material can be removed with only a
+small reduction in performance. This led to the development of a
+hollow lintel made from folded sheet steel.
+
+## Arches
+
+An arch is effective because it converts all the forces working on it
+into compressive ones, thus working to the strengths of the material.
+
+Structures supporting the sides of arches are termed
+_abutments_. These could be walls, earthen banks or other arches. A
+"half-arch" used as an abutment is known as a _flying buttress_.
+
+A Roman arch is formed of wedge-shaped stones (voussoirs) that support
+each other. The central stone --- the keystone --- stabilises the
+whole arch when inserted. They are semicircular and so have a high
+width when tall. Gothic arches removed this limitation, when it was
+discovered that an arch with a point allowed the height to be greater
+than half the width.
+
+In terms of supporting forces one of the most efficient shapes is the
+catenary or very similar parabola. A catenary is the shape a chain or
+rope naturally assumes when supported at each end.
 
 ## Strain
 
