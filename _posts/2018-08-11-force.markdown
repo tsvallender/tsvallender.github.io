@@ -69,6 +69,26 @@ derivative of velocity --- the rate of change of acceleration --- is
 *jerk*. The third derivative of velocity --- the rate of change of
 jerk --- is *jounce* (or snap).
 
+## Motion with constant acceleration
+
+For an initial velocity _u_ (in m s<sup>-1</sup>), a constant
+accleration _a_ (in m s<sup>-2</sup>) and time _t_ (in s) velocity and
+displacement can be given by:
+
+<div class="important-note">
+$$v = u + at$$
+
+$$s = ut + \frac{1}{2}at^2$$
+
+These can be manipulated to produce:
+
+$$s = \frac{1}{2}(u+v)t$$
+
+$$v^2 = u^2 + 2as$$
+
+$$s = vt - \frac{1}{2}at^2$$
+</div>
+
 ## Mass
 
 So now we can measure the way things move. We also need to measure how

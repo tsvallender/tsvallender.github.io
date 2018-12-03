@@ -19,6 +19,7 @@ Standards:
 * can protect engineers from legal challenge by proving work conforms
   to the relevant standard.
 * protect clients from poor engineering.
+* help ensure interoperability and allow for interchangeable components.
 
 It is important standards not inhibit innovation and slow progress,
 and so it is the responsibility of a standard's administrating
