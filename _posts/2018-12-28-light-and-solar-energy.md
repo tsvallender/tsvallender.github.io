@@ -69,3 +69,14 @@ The laws of reflection of light state:
 are all in the same plane.</li>
 </ol>
 </div>
+
+## Generating power
+
+Energy can be produced directly from sunlight by heating water in
+"solar thermal" arrangements in which it heats the air in "Trombe
+wall" cavities. This is an example of _passive_ solar
+heating. _Active_ solar heating uses thermal energy to heat water
+either directly or via a heat exchanger.
+
+In order to generate electricity, photovoltaic (PV) panels are used. A
+group wired together is known as a **solar array**.
