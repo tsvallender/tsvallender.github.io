@@ -24,7 +24,7 @@ the steam generated the higher the efficiency, and is known as the
 The **heat of combustion** is the amount of heat energy released per unit amount of fuel burned. Energy is measured in joules, the "unit amount" can be given in mol, kg or m<sup>3</sup>.
 
 <div class="important-note">
-$$\text{heat released (J)} \linebreak
+$$\text{heat released (J)} 
 	     = \text{heat of combustion (J kg}^{-1}\text{)} \times \text{amount of fuel (kg)}
      	     = \text{heat of combustion (J m}^{-3}\text{)} \times \text{amount of fuel (m}^{3}\text{)}
      	     = \text{heat of combustion (J mol}^{-1}\text{)} \times \text{amount of fuel(mol)}$$
