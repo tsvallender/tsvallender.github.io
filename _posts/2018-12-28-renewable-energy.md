@@ -72,4 +72,4 @@ generation. It is then pumped back underground to reheat.
 
 ## Solar energy
 
-See {{site.baseurl}}{% post_url 2018-12-28-light-and-solar-energy %}.
+See [Light and solar energy]({{ site.baseurl }}{% post_url 2018-12-28-light-and-solar-energy %}).
