@@ -33,7 +33,7 @@ cycles per second, measured in Hz.
 **Amplitude** (_A_) is the maximum value of the varying quality, where
 units will depend upon the wave's nature.
 
-<div class="important-note>
+<div class="important-note">
 $$\text{wavelength} \times \text{frequency} = \text{speed}$$
 
 For electromagnetic radiation this is written $$c = \lambda f$$ where
@@ -63,7 +63,9 @@ many directions_.
 
 <div class="important-note">
 The laws of reflection of light state:
-1. The angle of incidence is equal to the angle of reflection.
-2. The angles of incidence and reflection and the normal to the surface
-   are all in the same plane.
+<ol>
+<li>The angle of incidence is equal to the angle of reflection.</li>
+<li>The angles of incidence and reflection and the normal to the surface
+are all in the same plane.</li>
+</ol>
 </div>
