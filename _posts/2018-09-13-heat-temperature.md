@@ -31,7 +31,7 @@ mass").
 
 <div class="important-note">$$\Delta Q = mc \Delta T$$</div>
 
-Here Δ_Q_ is heat energy required, _m_ is mass, _c_ is specific heat
+Here _ΔQ_ is heat energy required, _m_ is mass, _c_ is specific heat
 capacity and ΔT is temperature difference.
 
 ## Heat transfer
@@ -42,9 +42,9 @@ Heat can be transferred in three ways:
   <dt>Conduction</dt>
   <dd>The vibrations of atoms or molecules are transferred to other
   atoms or molecules by direct contact. Conduction is most important in
-  solids. When it does occur in fluids it is termed *diffusion*. Some
-  materials are better *conductors* than others. Poor conductors are called
-  *insulators*.</dd>
+  solids. When it does occur in fluids it is termed <strong>diffusion
+  </strong>. Some materials are better <strong>conductors</strong> than
+  others. Poor conductors are called <strong>insulators</strong>.</dd>
   <dt>Convection</dt>
   <dd>The primary heat transfer mechanism in fluids, this is when hotter
   molecules move around more than cold ones, moving further apart. This means
@@ -57,3 +57,34 @@ Heat can be transferred in three ways:
 
 *Thermal management* is the use of heat transfer mechanisms to keep a
 system within given temperature bounds.
+
+## Specific latent heat
+
+While a substance is changing from one form to another, e.g. melting
+or evaporating, its temperature will stay the same. Energy is required
+to complete this change of state but will not affect the temperature
+until the change is complete. The amount of heat energy required is
+called the **latent heat of fusion** (for melting and freezing) or the
+**latent heat of vaporisation** (for boiling or condensation).
+
+<div class="important-note">
+
+<strong>Specific latent heat of fusion</strong> is the amount of heat
+energy, in joules, required to change 1 kg of a substance from a solid
+to a liquid at its melting temperature. It is given as
+
+$$\Delta Q = mL_f$$
+
+Where _ΔQ_ is amount of heat energy absorbed or released, _m_ is the
+mass of the substance changing state and L<sub>f</sub> is the
+substance's specific latent heat of fusion.
+
+<strong>Specific latent heat of vaporisation</strong> is the amount of
+heat energy, in joules, required to change 1 kg of a substance from a
+liquid to a gas at its boiling point. It is given as
+
+$$\Delta Q = mL_v$$
+
+Where _ΔQ_ is amount of heat energy absorbed or released, _m_ is the
+mass of the substance changing state and L<sub>v</sub> is the
+substance's specific latent heat of vaporisation.
