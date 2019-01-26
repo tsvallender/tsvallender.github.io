@@ -76,15 +76,61 @@ be cast in inert atmospheres.
 "pattern" is used to form an impression which becomes the mould
 cavity. The mould is then destroyed to remove the product, but the
 pattern can be reused. It is often appropriate for small-quantity
-production or one-offs. One example of this method is sand casting.
+production or one-offs.
+
+One example of this method is sand casting. Runners and risers are
+used to allow the liquid to be poured in and fill with excess
+fluid. Cores can be inserted to produce hollow castings. Downsides of
+sand casting are the rough finish and poor suitability to small items
+or details. Surface finishing is generally required and the runners
+and risers must be removed.
 
 **Pattern-free permanent mould**
 
 A die (or mould) is used repeatedly and opened to release the cast
 product.
 
+Gravity die-casting uses a solid metal mould into which the liquid is
+poured. Pressure die-casting is similar but the molten metal is
+injected under pressure. This makes the process faster but increases
+the likelihood of defects. It also allows smaller thicknesses which
+relying on gravity alone does not.
+
+Injection moulding is the most common process when working with
+thermoplastic polymer materials. Most polymers begin to degrade before
+they reach high enough temperatures to fill a mould solely under the
+influence of gravity and so a screw is used to push along granules
+which are melted before entering the mould. At the final stage, the
+screw acts as a ram, moving axially. The high pressures straighten the
+polymer's molecules, reducing its viscosity. This is known as shear
+thinning.
+
 **Expendable mould and pattern**
 
 A pattern is made from a material with a low melting temperature, the
 mould is built around it. The pattern is then melted away and the
 product cast. The mould is destroyed to retrieve the casting.
+
+One method here is investment casting, used for casting metals with a
+high melting point, such as jet engine parts. A wax pattern is used,
+dipped into ceramic slurry, which is built up with ceramic
+particles. This is the investment process. The wax is then melted out,
+giving the alternate name "lost wax process". Molten metal is then
+poured into the mould, before breaking away the ceramic mould.
+
+## Microstructure and defects
+
+When metals cool during the casting process, grains form and dendrites
+grow --- tree-like structures. These can lead to the formation of
+voids, measured by the material's porosity. Often inclusions are also
+found.
+
+Many undesirable inclusions can be removed by heating the material to
+below its melting point --- "dissolving" the impurities. Voids are
+hard to avoid and can have catastrophic implications, but can be
+reduced via the use of runners and risers with their associated
+reservoirs.
+
+When casting ingots, the process is generally not tightly controlled
+as the properties of the final product are determined during later
+forming stages.
