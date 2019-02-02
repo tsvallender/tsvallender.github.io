@@ -160,7 +160,7 @@ properties. It can be used to eliminate the effects of work hardening.
 
 <div class="important-note">
 
-All metals soften at a high <strong>homologous temperature
+All metals soften at a high <strong>homologous temperature</strong>
 (<em>T</em><sub>H</sub>). This expresses a materials temperature (T)
 as a fraction of its melting point (<em>T</em><sub>m</sub>).
 
