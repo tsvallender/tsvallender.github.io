@@ -118,7 +118,7 @@ particles. This is the investment process. The wax is then melted out,
 giving the alternate name "lost wax process". Molten metal is then
 poured into the mould, before breaking away the ceramic mould.
 
-## Microstructure and defects
+### Microstructure and defects
 
 When metals cool during the casting process, grains form and dendrites
 grow --- tree-like structures. These can lead to the formation of
@@ -134,3 +134,191 @@ reservoirs.
 When casting ingots, the process is generally not tightly controlled
 as the properties of the final product are determined during later
 forming stages.
+
+## Forming
+
+Forming is the process of shaping materials while they are solid, by
+squeezing, squashing, hammering, bending or stretching. The
+suitability of a material for use in a forming process is governed by
+the point at which it begins to flow (governed by its yield stress)
+and how much it will flow before separation occurs (governed by
+ductility). A material with a low yield stress will be easier to form,
+but is likely to have properties which are less desirable in a
+finished product.
+
+The yield point of a material is useful to know for these purposes. If
+a stress-strain graph does not show an obvious yield point, an offset
+yield point or **proof stress** is obtained by drawing a line parallel
+to the linear section at 0.2% plastic strain, then taking the stress
+reading. A measure of ductility is given by the strain values.
+
+Some materials can display **work hardening**. This is when they
+become harder after being strained plastically. This is caused by a
+build-up of defects. These store energy. **Annealing** is a method for
+altering the microstructure of a material, changing its physical
+properties. It can be used to eliminate the effects of work hardening.
+
+<div class="important-note">
+
+All metals soften at a high <strong>homologous temperature
+(<em>T</em><sub>H</sub>). This expresses a materials temperature (T)
+as a fraction of its melting point (<em>T</em><sub>m</sub>).
+
+$$T_H=\frac{T}{T_m}$$
+
+Temperatures must be given in Kelvin, and the fraction itself has no
+units.
+
+</div>
+
+Hot working a material (forming while at a homologous temperature over
+0.6) causes there to be effectively no work hardening. This allows
+high strains to be placed on the material. Conversely, cold working
+(at T<sub>H</sub> &lt; 0.3) does result in work hardening.
+
+There are three primary methods for using forming over alternative manufacturing methods:
+
+* **Size &amp; shape:** products with one dimension significantly larger
+  than their others are well-suited to forming.
+* **Processing properties:** some materials are difficult to work with
+  as liquids, meaning they are not easy to cast.
+* **Performance properties:** microstructures created during forming are
+  generally stronger than those created during casting, and can be more
+  closely managed.
+
+### Methods of forming
+
+**Extrusion** is the process of pushing a billet of a given material
+through a die using a ram. To create hollow sections a mandrel is used
+in the shape of the desired hole. **Wire drawing** is a similar method
+but the material is _pulled_ through a series of dies of decreasing
+size. Thermoplastics are extruded in a similar way, but a screw is
+used to push the polymer along and through the die.
+
+In **rolling** a material is squeezed between two rotating. Profiled
+rollers can be used to achieve a contoured shape. Progressively deeper
+rollers are used for surface patterns deeper than that which can be
+achieved in one pass. Metals will be easier to roll at higher
+temperatures, however this generally results in an oxidised, poorly
+finished surface.
+
+**Forging** uses hammering, pressing, rolling etc, generally on a hot
+metal. _Open_die_forging_ can be used for simple shapes, including
+very large ones. _Closed_die_forging_ is better suited to more complex
+3D bulk-solid shapes. Both these methods must then have excess
+material cut away.
+
+**Sheet forming** forms a product directly from a sheet. This could
+involve bending, stretching or shearing, as well as _vacuum_forming_
+plastics.
+
+**Powder processing** methods are often used when other techniques are
+not suitable, for example with ceramics. **Sintering** is a general
+term for the use of heat or pressure to transform a powder into a
+solid.
+
+## Cutting
+
+In order for a material to be cut, the cutting tool must be harder
+than the material. A material's hardness can vary widely depending on
+its microstructural condition.
+
+<div class="important-note">
+
+Hardness is often measured with a <strong>Vickers hardness
+number (HV)</strong>. To find this number, a pyramid shaped diamond indents
+the material with a known force, which is divided by the surface area
+of the indentation. The HV is usually quoted without units.
+
+</div>
+
+There are three primary types of cutting-tool material:
+
+* **Tool steels:** both the oldest and most common material for
+  cutting. Alloys of iron and carbon with additions of chromium,
+  tungsten or other elements.
+
+* **Composite materials based on metal carbides:** often referred to
+  as hard metals or cemented carbides, they are formed by a mixture of
+  cobalt and metal carbide powders which have been sintered.
+
+* **Ceramic** tools generally consist of aluminium oxide, sometimes
+  with additions of magnesium oxide. Again, they are sintered. This
+  includes diamond cutting tools.
+
+**Hobbing** is a method of progressively cutting deeper into a
+workpiece using a hob
+
+When cutting materials it is common for temperatures to become very
+high; a combination of lubrication and careful cutting tool design can
+minimise this.
+
+Not all cutting is mechanical. For example **laser cutting** melts,
+burns or vaporises the material, producing a high quality finish. It
+is a relatively high-cost technique. **Plasma cutting** uses a jet of
+hot plasma to cut through electrically conductive materials. It is
+high speed and low cost.
+
+## Joining
+
+There are three primary kinds of joining:
+
+**Mechanical joining**uses fasteners. They are simple and versatile,
+however do not form a seal and can cause potential weak spots as they
+necessitate a hole.
+
+**Adhesion** uses a layer of another material which solidifies to form
+a joint. This includes glues and solder. Glues can be used on almost
+all materials, involve low curing temperatures, do not damage
+heat-sensitive materials, do not require holes, fill surface
+imperfections and can be very strong over a large surface
+area. However, many are not stable above 180°C, necessitate surface
+preparation, can contain toxic chemicals, take longer to assemble and
+have a hard to predict lifespan.
+
+Soldering can join most metals, including dissimilar ones, requires
+lower temperatures than welding which in turn reduces the likelihood
+of distortion and is adaptable to automation. It is relatively weak
+and is not widely applicable to other materials, however.
+
+**Welding** aims to make a joint similar to or even indistinguishable
+from the original materials. There are a variety of forms which include:
+
+* **Solid-state welding** forces two pieces together so plastic
+  deformation forms their shapes together. This includes roll bonding,
+  friction welding and explosive welding.
+
+* **Fusion welding** melts and fuses materials together, sometimes
+  with the addition of a filler.
+
+The microstructure of welds is similar to that of cast materials;
+welds can, infact, be thought of as small castings.
+
+### Surface engineering
+
+Often, only the surface of a product requires certain attributes. In
+these circumstances, it is often more practical and cost effective to
+engineer the surface only.
+
+### Additive manufacturing
+
+Often termed 3D-printing, additive manufacturing creates items by
+progressively building up material. Again, there are many
+variations. Some of these are:
+
+* **Stereolithography**, in which a UV laser causes a chemical
+  reaction in a bath of resin, solidifying it. As one layer is formed,
+  the resin is lowered, allowing another layer of fluid to be
+  solidified on top. This process is used with specialised polymers
+  and requires "scaffolding" to create "islands" of material.
+
+* **Selective laser sintering** is a similar process, but melts and
+  resolidifies a powder, and gets around the shortcomings of
+  stereolithography.
+
+* **Laminated object manufacturing** constructs products from thin
+  paper sheets or wood laminates. This creates a material with
+  properties like a grainless wood.
+
+Additive manufacturing is quick, flexible and less expensive when
+creating small numbers.
