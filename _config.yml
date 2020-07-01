@@ -6,17 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Example Jekyll site using GitLab Pages
-email: your-email@domain.com
+title: T S Vallender
+email: trevor@tsvallender.co.uk
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Online home of T S Vallender: DM, coder, all around nerd.
 baseurl: "/jekyll" # the subpath of your site, e.g. /blog
 url: "/" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
-gitlab_username:  pages
+twitter_username: tsvallender
 
 # Outputting
 permalink: /:categories/:year/:month/:day/:title
