@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "Knewave";
+    src: url("knewave-outline-webfont.woff");
+}
+
 /**
  * Site header
  */
@@ -5,7 +10,7 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
-
+    text-align: center;
     background-color: #990066;
     
     // Positioning context for the mobile navigation icon
@@ -13,10 +18,10 @@
 }
 
 .site-title {
+    font-family: "Knewave", sans-serif;
     font-size: 50px;
     letter-spacing: -1px;
     margin-bottom: 0;
-    text-align: center;
     &,
     &:visited {
         color: #FF9900;
