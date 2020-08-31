@@ -56,6 +56,7 @@ class Combatant {
 
 function load() {
     alert("hellohello");
+    alert(typeof Combat);
     c = new Combat();
     d = new Combatant("Acornia", 12,2,34);
     c.add(d);
