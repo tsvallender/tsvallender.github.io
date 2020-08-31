@@ -58,6 +58,7 @@ function load() {
     alert("hellohello");
     c = new Combat();
     c.add("Acornia", 12,2,34);
+    alert(c.currenthp);
     alert(c.roster.toString());
 }
 
