@@ -57,7 +57,8 @@ class Combatant {
 function load() {
     alert("hellohello");
     c = new Combat();
-    c.add("Acornia", 12,2,34);
+    d = new Combatant("Acornia", 12,2,34);
+    c.add(d);
     alert(c.currenthp);
     alert(c.roster.toString());
 }
