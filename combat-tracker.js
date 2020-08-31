@@ -62,7 +62,7 @@ function addClick(name, maxhp, currenthp, initiative) {
     alert('hello');
     combatant = new Combatant(name, maxhp, currenthp, initiative);
     c.add(combatant);
-    alert(c.roster);
+    alert(c.roster.toString());
 }
     
 window.onload = load;
