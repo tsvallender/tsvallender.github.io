@@ -59,7 +59,7 @@ function load() {
     c = new Combat();
     d = new Combatant("Acornia", 12,2,34);
     c.add(d);
-    alert(c.currenthp);
+    alert(d.currenthp);
     alert(c.roster.toString());
 }
 
