@@ -55,7 +55,10 @@ class Combatant {
 }
 
 function load() {
+    alert("hellohello");
     c = new Combat();
+    c.add("Acornia", 12,2,34);
+    alert(c.roster.toString());
 }
 
 function addClick(name, maxhp, currenthp, initiative) {
