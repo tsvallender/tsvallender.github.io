@@ -9,7 +9,7 @@ $header-font: 'League Mono', monospace;
 
 @font-face {
     font-family: 'League Mono';
-    src: font-url('LeagueMono-Regular.woff') format('woff');
+    src: font-url('./LeagueMono-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -22,7 +22,7 @@ html {
 body {
     margin: 0 auto;
     width: 45em;
-    padding: 1em;
+    padding: 1em 0em;
     border: 1px solid black;
     background-color: $foreground-color;
     font-family: $body-font;
