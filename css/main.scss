@@ -1,8 +1,22 @@
 ---
 ---
 
+$background-color: #aaa;
+$foreground-color: #fff;
+$link-color: #117;
+$body-font: 'League Mono', monospace;
+$header-font: 'League Mono', monospace;
+
+@font-face {
+    font-family: 'League Mono';
+    src: font-url('LeagueMono-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 html {
-    background-color: #aaa;
+    background-color: $background-color;
+    height: 100%;
 }
 
 body {
@@ -10,6 +24,15 @@ body {
     width: 45em;
     padding: 1em;
     border: 1px solid black;
-    background-color: white;
-    font-family: monospace;
+    background-color: $foreground-color;
+    font-family: $body-font;
+    min-height: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: $link-color;
+    &:hover {
+	text-decoration: underline;
+    }
 }
