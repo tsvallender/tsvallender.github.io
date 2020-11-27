@@ -29,7 +29,7 @@ body {
     min-height: 100%;
 }
 
-a {
+a, a:visited {
     text-decoration: none;
     color: $link-color;
     &:hover {
