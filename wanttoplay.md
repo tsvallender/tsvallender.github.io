@@ -1,18 +1,21 @@
 ---
 permalink: /wanttoplay/
 title: Games I want to play
+layout: default
 ---
+<h1>{{ page.title }}</h1>
+<dl>
+<dt>Warhammer Fantasy Role Play</dt>
 
-Warhammer Fantasy Role Play
+<dt>Mork Borg</dt>
 
-Mork Borg
+<dt>Dungeon Crawl Classics</dt>
 
-Dungeon Crawl Classics
+<dt>Call of Cthulhu</dt>
 
-Call of Cthulhu
+<dt>Forbidden Lands</dt>
 
-Forbidden Lands
+<dt>Vampire: the Masquerade</dt>
 
-Vampire: the Masquerade
-
-Talisman
+<dt>Talisman Adventures</dt>
+</dl>
