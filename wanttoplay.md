@@ -1,3 +1,7 @@
+---
+permalink: /wanttoplay/
+---
+
 Warhammer Fantasy Role Play
 
 Mork Borg
