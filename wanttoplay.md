@@ -24,11 +24,11 @@ layout: default
 </tr>
 <tr>
 <td>Call of Cthulhu</td>
-<p>Call of Cthulhu is a horror fiction role-playing game based on H. P. Lovecraft's story of the same name and the associated Cthulhu Mythos. The game, often abbreviated as CoC, is published by Chaosium; it was first released in 1981 and is currently in its seventh edition, with licensed foreign language editions available as well. Its game system is based on Chaosium's Basic Role-Playing (BRP), with additions for the horror genre. These include special rules for sanity and luck among others.</p>
+<td><p>Call of Cthulhu is a horror fiction role-playing game based on H. P. Lovecraft's story of the same name and the associated Cthulhu Mythos. The game, often abbreviated as CoC, is published by Chaosium; it was first released in 1981 and is currently in its seventh edition, with licensed foreign language editions available as well. Its game system is based on Chaosium's Basic Role-Playing (BRP), with additions for the horror genre. These include special rules for sanity and luck among others.</p></td>
 </tr>
 <tr>
 <td>Forbidden Lands</td>
-<tr>Forbidden Lands is a new take on classic fantasy roleplaying. In this sandbox survival roleplaying game, you’re not heroes sent on missions dictated by others – instead, you are raiders and rogues bent on making your own mark on a cursed world. You will discover lost tombs, fight terrible monsters, wander the wild lands, and if you live long enough, build your own stronghold to defend.
+<td>Forbidden Lands is a new take on classic fantasy roleplaying. In this sandbox survival roleplaying game, you’re not heroes sent on missions dictated by others – instead, you are raiders and rogues bent on making your own mark on a cursed world. You will discover lost tombs, fight terrible monsters, wander the wild lands, and if you live long enough, build your own stronghold to defend.</td>
 </tr>
 <tr>
 <td>Vampire: the Masquerade (or other World of Darkness games)</td>
