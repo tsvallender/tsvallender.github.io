@@ -20,10 +20,10 @@ html {
 body {
     margin: 2em;
     border: 1px solid black;
-    padding: 1em 0em;
+    padding: 1em 1em;
     background-color: $foreground-color;
     font-family: $body-font;
-    filter: drop-shadow(30px 10px 4px gray);
+    filter: drop-shadow(10px 10px 4px gray);
 }
 
 a, a:visited {
