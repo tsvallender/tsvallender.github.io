@@ -11,7 +11,6 @@ email: trevor@tsvallender.co.uk
 description: > # this means to ignore newlines until "baseurl:"
   Online home of T S Vallender: DM, coder, all around nerd.
 baseurl: "https://tsvallender.co.uk" # the subpath of your site, e.g. /blog
-url: "/" # the base hostname & protocol for your site
 twitter_username: tsvallender
 
 # Outputting
