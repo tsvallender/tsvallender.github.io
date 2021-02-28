@@ -14,10 +14,16 @@ $header-font: 'League Mono', monospace;
     font-style: normal;
 }
 
+html {
+    background-color: $background-color;
+}
 body {
+    margin: 2em;
+    border: 1px solid black;
     padding: 1em 0em;
     background-color: $foreground-color;
     font-family: $body-font;
+    filter: drop-shadow(30px 10px 4px gray);
 }
 
 a, a:visited {
