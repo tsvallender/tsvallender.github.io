@@ -28,7 +28,7 @@ layout: default
 </tr>
 <tr>
 <td>Forbidden Lands</td>
-<tr>Forbidden Lands is a new take on classic fantasy roleplaying. In this sandbox survival roleplaying game, you’re not heroes sent on missions dictated by others – instead, you are raiders and rogues bent on making your own mark on a cursed world. You will discover lost tombs, fight terrible monsters, wander the wild lands, and if you live long enough, build your own stronghold to defend.</tr>
+<tr>Forbidden Lands is a new take on classic fantasy roleplaying. In this sandbox survival roleplaying game, you’re not heroes sent on missions dictated by others – instead, you are raiders and rogues bent on making your own mark on a cursed world. You will discover lost tombs, fight terrible monsters, wander the wild lands, and if you live long enough, build your own stronghold to defend.
 </tr>
 <tr>
 <td>Vampire: the Masquerade (or other World of Darkness games)</td>
