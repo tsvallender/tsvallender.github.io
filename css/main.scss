@@ -9,13 +9,13 @@ $header-font: 'Goudy', Helvetica, Arial, sans-serif;
 
 @font-face {
     font-family: 'League Mono';
-    src: font-url('/css/LeagueMono-Regular.woff') format('woff');
+    src: url('/css/LeagueMono-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Goudy';
-    src: font-url('https://tsvallender.co.uk/css/goudy.woff') format('woff');
+    src: url('https://tsvallender.co.uk/css/goudy.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
