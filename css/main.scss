@@ -4,8 +4,8 @@
 $background-color: #aaa;
 $foreground-color: #fff;
 $link-color: #117;
-$body-font: 'Goudy', Helvetics, Arial, sans-serif;
-$header-font: 'Goudy', Helvetics, Arial, sans-serif;
+$body-font: 'Goudy', Helvetica, Arial, sans-serif;
+$header-font: 'Goudy', Helvetica, Arial, sans-serif;
 
 @font-face {
     font-family: 'League Mono';
@@ -15,7 +15,7 @@ $header-font: 'Goudy', Helvetics, Arial, sans-serif;
 }
 @font-face {
     font-family: 'Goudy';
-    src: font-url('/css/goudy.woff') format('woff');
+    src: font-url('../css/goudy.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
