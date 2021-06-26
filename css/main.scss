@@ -4,12 +4,18 @@
 $background-color: #aaa;
 $foreground-color: #fff;
 $link-color: #117;
-$body-font: 'League Mono', monospace;
+$body-font: 'Raleway', monospace;
 $header-font: 'League Mono', monospace;
 
 @font-face {
     font-family: 'League Mono';
     src: font-url('/css/LeagueMono-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Raleway';
+    src: font-url('/css/Raleway-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -34,6 +40,6 @@ a, a:visited {
     }
 }
 
-table {
-    border: 1px solid black;
+tr {
+    border-bottom: 1px solid black;
 }
