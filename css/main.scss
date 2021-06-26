@@ -4,8 +4,8 @@
 $background-color: #aaa;
 $foreground-color: #fff;
 $link-color: #117;
-$body-font: 'Raleway', monospace;
-$header-font: 'League Mono', monospace;
+$body-font: 'Raleway', Helvetics, Arial, sans-serif;
+$header-font: 'Raleway', Helvetics, Arial, sans-serif;
 
 @font-face {
     font-family: 'League Mono';
@@ -15,7 +15,7 @@ $header-font: 'League Mono', monospace;
 }
 @font-face {
     font-family: 'Raleway';
-    src: font-url('/css/Raleway-Regular.woff2') format('woff');
+    src: font-url('/css/Raleway-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
@@ -30,6 +30,10 @@ body {
     background-color: $foreground-color;
     font-family: $body-font;
     filter: drop-shadow(10px 10px 4px gray);
+}
+
+h1 {
+    text-decoration: underline;
 }
 
 a, a:visited {
