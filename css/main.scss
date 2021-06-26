@@ -4,8 +4,8 @@
 $background-color: #aaa;
 $foreground-color: #fff;
 $link-color: #117;
-$body-font: 'Raleway', Helvetics, Arial, sans-serif;
-$header-font: 'Raleway', Helvetics, Arial, sans-serif;
+$body-font: 'Goudy', Helvetics, Arial, sans-serif;
+$header-font: 'Goudy', Helvetics, Arial, sans-serif;
 
 @font-face {
     font-family: 'League Mono';
@@ -14,8 +14,8 @@ $header-font: 'Raleway', Helvetics, Arial, sans-serif;
     font-style: normal;
 }
 @font-face {
-    font-family: 'Raleway';
-    src: font-url('/css/Raleway-Regular.woff2') format('woff2');
+    font-family: 'Goudy';
+    src: font-url('/css/goudy.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
