@@ -44,6 +44,14 @@ a, a:visited {
     }
 }
 
-tr {
+th {
+    background-color: $background-color;
+}
+
+th, td {
     border-bottom: 1px solid black;
+}
+
+tr:nth-child(even) {
+    background-color: lightgray;
 }
