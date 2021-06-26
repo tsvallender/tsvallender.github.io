@@ -50,6 +50,8 @@ th {
 
 th, td {
     border-bottom: 1px solid black;
+    margin: 0;
+    padding: .5em;
 }
 
 tr:nth-child(even) {
